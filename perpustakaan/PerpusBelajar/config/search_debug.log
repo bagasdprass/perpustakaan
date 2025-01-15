@@ -1,0 +1,20 @@
+[2025-01-15 03:28:51] Search Member Query: SELECT * FROM member WHERE 
+              nama_member LIKE '%bagas%' OR
+              nis LIKE '%bagas%' OR
+              jurusan LIKE '%bagas%' OR
+              jenis_kelamin LIKE '%bagas%' OR
+              no_telp LIKE '%bagas%'
+[2025-01-15 03:30:27] Search Member Query: SELECT * FROM member WHERE 
+              nama LIKE '%bagas%' OR
+              nisn LIKE '%bagas%' OR
+              kode_member LIKE '%bagas%' OR
+              kelas LIKE '%bagas%' OR
+              jurusan LIKE '%bagas%' OR
+              jenis_kelamin LIKE '%bagas%' OR
+              no_tlp LIKE '%bagas%'
+[2025-01-15 03:30:35] Search Buku Query: SELECT * FROM buku WHERE 
+              judul LIKE '%ancika%' OR
+              kategori LIKE '%ancika%' OR
+              pengarang LIKE '%ancika%' OR
+              penerbit LIKE '%ancika%' OR
+              tahun_terbit LIKE '%ancika%'

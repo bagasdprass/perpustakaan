@@ -1,0 +1,66 @@
+[2025-01-15 03:12:28] Session before redirect: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:12:18
+            [id_admin] => 
+        )
+
+)
+
+[2025-01-15 03:12:28] Generated token: 56f9bd4b69396891a3b288a98fabcea00deb2006b9e2bf5a4956d36c63492e30
+[2025-01-15 03:12:28] Token saved to database: success
+[2025-01-15 03:12:28] Token saved to session: 56f9bd4b69396891a3b288a98fabcea00deb2006b9e2bf5a4956d36c63492e30
+[2025-01-15 03:12:28] Session after save token: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:12:18
+            [id_admin] => 
+        )
+
+    [sso_token] => 56f9bd4b69396891a3b288a98fabcea00deb2006b9e2bf5a4956d36c63492e30
+)
+
+[2025-01-15 03:13:58] Generated token: d40cd0d053440ab90f0ce141d7cab33712833e7c38c537aef6633cb7dcc36cdf
+[2025-01-15 03:13:58] Token saved to database: success
+[2025-01-15 03:13:58] Token saved to cookie: d40cd0d053440ab90f0ce141d7cab33712833e7c38c537aef6633cb7dcc36cdf
+[2025-01-15 03:19:47] Generated token: 831a2c63d9b4f59fe55db0677da699e53e6449be225fe6f55c3209b8f0468f8d
+[2025-01-15 03:19:47] Token saved to database: success
+[2025-01-15 03:19:47] Token saved to cookie: 831a2c63d9b4f59fe55db0677da699e53e6449be225fe6f55c3209b8f0468f8d
+[2025-01-15 03:20:15] Generated token: 3a9e8e3e950b3f944ddc92e13d6f1eb586a58aa889302e03fba16c6f790dc6d4
+[2025-01-15 03:20:15] Token saved to database: success
+[2025-01-15 03:20:15] Token saved to cookie: 3a9e8e3e950b3f944ddc92e13d6f1eb586a58aa889302e03fba16c6f790dc6d4
+[2025-01-15 03:20:45] Generated token: ca12669bd76384d9bfcb88b93bfb8b2267fb91d377fa56e5f877f4335951fb3b
+[2025-01-15 03:20:45] Token saved to database: success
+[2025-01-15 03:20:45] Token saved to cookie: ca12669bd76384d9bfcb88b93bfb8b2267fb91d377fa56e5f877f4335951fb3b
+[2025-01-15 03:21:24] Generated token: 0a6a9e7792469dcc6f58eecef720d96b7e0f594c09cda2135aac804f18576738
+[2025-01-15 03:21:24] Token saved to database: success
+[2025-01-15 03:21:24] Token saved to cookie: 0a6a9e7792469dcc6f58eecef720d96b7e0f594c09cda2135aac804f18576738
+[2025-01-15 03:22:30] Generated token: 3ee56b8f0fa6e21b9d2050ea6468ec8b94605cf2f2c34db7a5dec581bbb40f79
+[2025-01-15 03:22:30] Token saved to database: success
+[2025-01-15 03:22:30] Token saved to cookie: 3ee56b8f0fa6e21b9d2050ea6468ec8b94605cf2f2c34db7a5dec581bbb40f79
+[2025-01-15 03:24:27] Generated token: a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+[2025-01-15 03:24:27] Token saved to database: success
+[2025-01-15 03:24:27] Token saved to cookie: a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+[2025-01-15 03:26:30] Generated token: f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+[2025-01-15 03:26:30] Token saved to database: success
+[2025-01-15 03:26:30] Token saved to cookie: f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+[2025-01-15 03:28:17] Generated token: cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+[2025-01-15 03:28:17] Token saved to database: success
+[2025-01-15 03:28:17] Token saved to cookie: cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+[2025-01-15 03:30:41] Generated token: bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f
+[2025-01-15 03:30:41] Token saved to database: success
+[2025-01-15 03:30:41] Token saved to cookie: bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f

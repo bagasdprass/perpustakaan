@@ -1,0 +1,1073 @@
+[2025-01-15 03:24:23] Checking login...
+[2025-01-15 03:24:23] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [level] => admin
+            [created_at] => 2025-01-15 03:22:32
+        )
+
+)
+
+[2025-01-15 03:24:23] Cookie data: Array
+(
+    [sso_token] => 3ee56b8f0fa6e21b9d2050ea6468ec8b94605cf2f2c34db7a5dec581bbb40f79
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => j0lvd7hbu4isih75dqcqrmh5sm
+)
+
+[2025-01-15 03:24:23] Direct session found
+[2025-01-15 03:24:29] Checking login...
+[2025-01-15 03:24:29] Session data: Array
+(
+)
+
+[2025-01-15 03:24:29] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+)
+
+[2025-01-15 03:24:29] SSO Token found in cookie: a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+[2025-01-15 03:24:29] Valid token found in database
+[2025-01-15 03:24:29] Session restored from token
+[2025-01-15 03:24:33] Checking login...
+[2025-01-15 03:24:33] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [level] => admin
+            [created_at] => 2025-01-15 03:24:29
+        )
+
+)
+
+[2025-01-15 03:24:33] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 0nefodqjk9mselabrcehtu3ghi
+)
+
+[2025-01-15 03:24:33] Direct session found
+[2025-01-15 03:24:34] Checking login...
+[2025-01-15 03:24:34] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:24:29
+        )
+
+)
+
+[2025-01-15 03:24:34] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 0nefodqjk9mselabrcehtu3ghi
+)
+
+[2025-01-15 03:24:34] Direct session found
+[2025-01-15 03:24:37] Checking login...
+[2025-01-15 03:24:37] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:24:29
+        )
+
+)
+
+[2025-01-15 03:24:37] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 0nefodqjk9mselabrcehtu3ghi
+)
+
+[2025-01-15 03:24:37] Direct session found
+[2025-01-15 03:24:38] Checking login...
+[2025-01-15 03:24:38] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:24:29
+        )
+
+)
+
+[2025-01-15 03:24:38] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 0nefodqjk9mselabrcehtu3ghi
+)
+
+[2025-01-15 03:24:38] Direct session found
+[2025-01-15 03:24:40] Checking login...
+[2025-01-15 03:24:40] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:24:29
+        )
+
+)
+
+[2025-01-15 03:24:40] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 0nefodqjk9mselabrcehtu3ghi
+)
+
+[2025-01-15 03:24:40] Direct session found
+[2025-01-15 03:24:41] Checking login...
+[2025-01-15 03:24:41] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:24:29
+        )
+
+)
+
+[2025-01-15 03:24:41] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 0nefodqjk9mselabrcehtu3ghi
+)
+
+[2025-01-15 03:24:41] Direct session found
+[2025-01-15 03:24:42] Checking login...
+[2025-01-15 03:24:42] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:24:29
+        )
+
+)
+
+[2025-01-15 03:24:42] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 0nefodqjk9mselabrcehtu3ghi
+)
+
+[2025-01-15 03:24:42] Direct session found
+[2025-01-15 03:24:58] Checking login...
+[2025-01-15 03:24:58] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:24:29
+        )
+
+)
+
+[2025-01-15 03:24:58] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 0nefodqjk9mselabrcehtu3ghi
+)
+
+[2025-01-15 03:24:58] Direct session found
+[2025-01-15 03:25:02] Checking login...
+[2025-01-15 03:25:02] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:24:29
+        )
+
+)
+
+[2025-01-15 03:25:02] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 0nefodqjk9mselabrcehtu3ghi
+)
+
+[2025-01-15 03:25:02] Direct session found
+[2025-01-15 03:26:14] Checking login...
+[2025-01-15 03:26:14] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:24:29
+        )
+
+)
+
+[2025-01-15 03:26:14] Cookie data: Array
+(
+    [sso_token] => a23e9cefc671c8bef15f6bdf9c80cfd97bf0dcbe7fd73e8009fa99377c45657c
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 0nefodqjk9mselabrcehtu3ghi
+)
+
+[2025-01-15 03:26:14] Direct session found
+[2025-01-15 03:26:34] Checking login...
+[2025-01-15 03:26:34] Session data: Array
+(
+)
+
+[2025-01-15 03:26:34] Cookie data: Array
+(
+    [sso_token] => f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+)
+
+[2025-01-15 03:26:34] SSO Token found in cookie: f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+[2025-01-15 03:26:34] Valid token found in database
+[2025-01-15 03:26:34] Session restored from token
+[2025-01-15 03:26:37] Checking login...
+[2025-01-15 03:26:37] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [level] => admin
+            [created_at] => 2025-01-15 03:26:34
+        )
+
+)
+
+[2025-01-15 03:26:37] Cookie data: Array
+(
+    [sso_token] => f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 1nsktmemj8n94r7i5a8c0pji1o
+)
+
+[2025-01-15 03:26:37] Direct session found
+[2025-01-15 03:26:39] Checking login...
+[2025-01-15 03:26:39] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [level] => admin
+            [created_at] => 2025-01-15 03:26:34
+        )
+
+)
+
+[2025-01-15 03:26:39] Cookie data: Array
+(
+    [sso_token] => f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 1nsktmemj8n94r7i5a8c0pji1o
+)
+
+[2025-01-15 03:26:39] Direct session found
+[2025-01-15 03:26:43] Checking login...
+[2025-01-15 03:26:43] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [level] => admin
+            [created_at] => 2025-01-15 03:26:34
+        )
+
+)
+
+[2025-01-15 03:26:43] Cookie data: Array
+(
+    [sso_token] => f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 1nsktmemj8n94r7i5a8c0pji1o
+)
+
+[2025-01-15 03:26:43] Direct session found
+[2025-01-15 03:26:46] Checking login...
+[2025-01-15 03:26:46] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [level] => admin
+            [created_at] => 2025-01-15 03:26:34
+        )
+
+)
+
+[2025-01-15 03:26:46] Cookie data: Array
+(
+    [sso_token] => f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 1nsktmemj8n94r7i5a8c0pji1o
+)
+
+[2025-01-15 03:26:46] Direct session found
+[2025-01-15 03:26:47] Checking login...
+[2025-01-15 03:26:47] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:26:34
+        )
+
+)
+
+[2025-01-15 03:26:47] Cookie data: Array
+(
+    [sso_token] => f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 1nsktmemj8n94r7i5a8c0pji1o
+)
+
+[2025-01-15 03:26:47] Direct session found
+[2025-01-15 03:26:51] Checking login...
+[2025-01-15 03:26:51] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:26:34
+        )
+
+)
+
+[2025-01-15 03:26:51] Cookie data: Array
+(
+    [sso_token] => f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 1nsktmemj8n94r7i5a8c0pji1o
+)
+
+[2025-01-15 03:26:51] Direct session found
+[2025-01-15 03:26:54] Checking login...
+[2025-01-15 03:26:54] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:26:34
+        )
+
+)
+
+[2025-01-15 03:26:54] Cookie data: Array
+(
+    [sso_token] => f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 1nsktmemj8n94r7i5a8c0pji1o
+)
+
+[2025-01-15 03:26:54] Direct session found
+[2025-01-15 03:28:10] Checking login...
+[2025-01-15 03:28:10] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:26:34
+        )
+
+)
+
+[2025-01-15 03:28:10] Cookie data: Array
+(
+    [sso_token] => f5b0c6b347c3fd7d9c281d01a414f077ae934a284c9100c159cccec8239efe15
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 1nsktmemj8n94r7i5a8c0pji1o
+)
+
+[2025-01-15 03:28:10] Direct session found
+[2025-01-15 03:28:14] Checking login...
+[2025-01-15 03:28:14] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [id_admin] => 
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:14
+        )
+
+)
+
+[2025-01-15 03:28:14] Cookie data: Array
+(
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 1nsktmemj8n94r7i5a8c0pji1o
+    [sso_token] => 7ffa44ad87e4fb5763feb05b784f659962dfd86f39f6ffd26fc2424eb5d3a8b4
+)
+
+[2025-01-15 03:28:14] Direct session found
+[2025-01-15 03:28:26] Checking login...
+[2025-01-15 03:28:26] Session data: Array
+(
+)
+
+[2025-01-15 03:28:26] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:28:26] SSO Token found in cookie: cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+[2025-01-15 03:28:26] Valid token found in database
+[2025-01-15 03:28:26] Session restored from token
+[2025-01-15 03:28:46] Checking login...
+[2025-01-15 03:28:46] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:28:46] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:28:46] Direct session found
+[2025-01-15 03:28:46] Checking login...
+[2025-01-15 03:28:46] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:28:46] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:28:46] Direct session found
+[2025-01-15 03:28:47] Checking login...
+[2025-01-15 03:28:47] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:28:47] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:28:47] Direct session found
+[2025-01-15 03:28:47] Checking login...
+[2025-01-15 03:28:47] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:28:47] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:28:47] Direct session found
+[2025-01-15 03:28:47] Checking login...
+[2025-01-15 03:28:47] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:28:47] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:28:47] Direct session found
+[2025-01-15 03:28:48] Checking login...
+[2025-01-15 03:28:48] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:28:48] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:28:48] Direct session found
+[2025-01-15 03:28:51] Checking login...
+[2025-01-15 03:28:51] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:28:51] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:28:51] Direct session found
+[2025-01-15 03:30:23] Checking login...
+[2025-01-15 03:30:23] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:30:23] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:30:23] Direct session found
+[2025-01-15 03:30:25] Checking login...
+[2025-01-15 03:30:25] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:30:25] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:30:25] Direct session found
+[2025-01-15 03:30:27] Checking login...
+[2025-01-15 03:30:27] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:30:27] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:30:27] Direct session found
+[2025-01-15 03:30:31] Checking login...
+[2025-01-15 03:30:31] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:30:31] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:30:31] Direct session found
+[2025-01-15 03:30:32] Checking login...
+[2025-01-15 03:30:32] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:30:32] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:30:32] Direct session found
+[2025-01-15 03:30:35] Checking login...
+[2025-01-15 03:30:35] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:30:35] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:30:35] Direct session found
+[2025-01-15 03:30:39] Checking login...
+[2025-01-15 03:30:39] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:28:26
+        )
+
+)
+
+[2025-01-15 03:30:39] Cookie data: Array
+(
+    [sso_token] => cec0c48a3eb5f2a0b1e8f153543d424cec17415ae20c672729adba74c5824d4a
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => 9o598feupk1ju5g0pmpcsme3dk
+)
+
+[2025-01-15 03:30:39] Direct session found
+[2025-01-15 03:30:47] Checking login...
+[2025-01-15 03:30:47] Session data: Array
+(
+)
+
+[2025-01-15 03:30:47] Cookie data: Array
+(
+    [sso_token] => bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+)
+
+[2025-01-15 03:30:47] SSO Token found in cookie: bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f
+[2025-01-15 03:30:47] Valid token found in database
+[2025-01-15 03:30:47] Session restored from token
+[2025-01-15 03:30:49] Checking login...
+[2025-01-15 03:30:49] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [level] => admin
+            [created_at] => 2025-01-15 03:30:47
+        )
+
+)
+
+[2025-01-15 03:30:49] Cookie data: Array
+(
+    [sso_token] => bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => f5ke8esse154fs9ha46sh24m31
+)
+
+[2025-01-15 03:30:49] Direct session found
+[2025-01-15 03:30:51] Checking login...
+[2025-01-15 03:30:51] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:30:47
+        )
+
+)
+
+[2025-01-15 03:30:51] Cookie data: Array
+(
+    [sso_token] => bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => f5ke8esse154fs9ha46sh24m31
+)
+
+[2025-01-15 03:30:51] Direct session found
+[2025-01-15 03:30:53] Checking login...
+[2025-01-15 03:30:53] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:30:47
+        )
+
+)
+
+[2025-01-15 03:30:53] Cookie data: Array
+(
+    [sso_token] => bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => f5ke8esse154fs9ha46sh24m31
+)
+
+[2025-01-15 03:30:53] Direct session found
+[2025-01-15 03:30:54] Checking login...
+[2025-01-15 03:30:54] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:30:47
+        )
+
+)
+
+[2025-01-15 03:30:54] Cookie data: Array
+(
+    [sso_token] => bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => f5ke8esse154fs9ha46sh24m31
+)
+
+[2025-01-15 03:30:54] Direct session found
+[2025-01-15 03:30:56] Checking login...
+[2025-01-15 03:30:56] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:30:47
+        )
+
+)
+
+[2025-01-15 03:30:56] Cookie data: Array
+(
+    [sso_token] => bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => f5ke8esse154fs9ha46sh24m31
+)
+
+[2025-01-15 03:30:56] Direct session found
+[2025-01-15 03:30:57] Checking login...
+[2025-01-15 03:30:57] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:30:47
+        )
+
+)
+
+[2025-01-15 03:30:57] Cookie data: Array
+(
+    [sso_token] => bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => f5ke8esse154fs9ha46sh24m31
+)
+
+[2025-01-15 03:30:57] Direct session found
+[2025-01-15 03:30:58] Checking login...
+[2025-01-15 03:30:58] Session data: Array
+(
+    [signIn] => 1
+    [admin] => Array
+        (
+            [id] => 2
+            [nama] => bagas
+            [username] => 
+            [email] => 
+            [level] => admin
+            [created_at] => 2025-01-15 03:30:47
+        )
+
+)
+
+[2025-01-15 03:30:58] Cookie data: Array
+(
+    [sso_token] => bd1e4dc7f561c43f6412419a75d550792942485cdfdc4d650e54e056c80f697f
+    [SenayanAdmin] => jvhc9kaladen510atl02km34g1
+    [SLIMS_SESSID] => jvhc9kaladen510atl02km34g1
+    [PHPSESSID] => f5ke8esse154fs9ha46sh24m31
+)
+
+[2025-01-15 03:30:58] Direct session found
